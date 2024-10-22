@@ -4,19 +4,19 @@
     "url": "https://darkweb-rho.vercel.app/",
     "icon": "https://darkweb-rho.vercel.app/favicon.ico",
     "slug": "darkweb",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 122,
-    "timeWeek": 117,
-    "timeMonth": 137,
-    "timeYear": 149,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 150,
+    "timeDay": 148,
+    "timeWeek": 125,
+    "timeMonth": 138,
+    "timeYear": 150,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 21
     }
   }
 ]
