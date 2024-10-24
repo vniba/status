@@ -6,14 +6,14 @@
     "slug": "darkweb",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.57%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 151,
-    "timeDay": 199,
-    "timeWeek": 141,
-    "timeMonth": 142,
+    "timeDay": 110,
+    "timeWeek": 136,
+    "timeMonth": 139,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2024-10-22": 21
