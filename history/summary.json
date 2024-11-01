@@ -5,16 +5,16 @@
     "icon": "https://darkweb-rho.vercel.app/favicon.ico",
     "slug": "darkweb",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 152,
-    "timeDay": 110,
-    "timeWeek": 160,
-    "timeMonth": 142,
-    "timeYear": 152,
+    "uptimeYear": "99.98%",
+    "time": 151,
+    "timeDay": 134,
+    "timeWeek": 159,
+    "timeMonth": 143,
+    "timeYear": 151,
     "dailyMinutesDown": {
       "2024-10-22": 21
     }
