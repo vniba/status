@@ -6,6 +6,9 @@ sites:
   - name: darkweb
     url: https://darkweb-rho.vercel.app/
     icon: https://darkweb-rho.vercel.app/favicon.ico
+  - name : zenoa
+    url: $ZENOA
+    method: GET
 
 status-website:
   theme: night
