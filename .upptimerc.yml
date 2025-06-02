@@ -1,4 +1,4 @@
-# Change these first
+  # Change these first
 owner: vniba # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
@@ -8,6 +8,9 @@ sites:
     icon: https://darkweb-rho.vercel.app/favicon.ico
   - name : zenoa
     url: $ZENOA
+    method: GET
+  - name : gamehub
+    url: https://web-dev-f5367.web.app/
     method: GET
 
 status-website:
