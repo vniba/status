@@ -12,6 +12,9 @@ sites:
   - name : gamehub
     url: https://web-dev-f5367.web.app/
     method: GET
+  - name : sambar
+    url: https://sambar.netlify.app/
+    method: GET
 
 status-website:
   theme: night
