@@ -1,7 +1,7 @@
 url: $ZENOA
-status: up
-code: 200
-responseTime: 329
-lastUpdated: 2025-07-07T23:13:32.188Z
+status: down
+code: 429
+responseTime: 392
+lastUpdated: 2025-07-08T11:12:33.765Z
 startTime: 2025-04-15T04:02:10.823Z
 generator: Upptime <https://github.com/upptime/upptime>
